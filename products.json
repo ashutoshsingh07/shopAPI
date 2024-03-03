@@ -42,5 +42,30 @@
         "price":701,
         "featured":false,
         "company":"mi"
+    },
+    {
+        "name": "macbook air",
+        "price": 999,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy note 20",
+        "price": 999,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "alienware laptop",
+        "price": 1499,
+        "featured": true,
+        "company": "dell"
+    },
+    {
+        "name": "redmi 10",
+        "price": 199,
+        "featured": false,
+        "company": "mi"
     }
+
 ]
